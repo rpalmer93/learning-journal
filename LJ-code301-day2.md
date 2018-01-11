@@ -1,0 +1,3 @@
+Journal Entry 2 1/10/18:
+
+Today in lab me and my partner started working on an assignment where we had to implement jQuery methods in the code that was based on day 1's code of the "Bacon Ipsum Blog". Some of our roadblocks were git branch, and git clone problems that we solved. We did not get many of the jQuery metohds implemented properly yet we did experiment and commented out our notes along the way. I will work with the TA's tomorrow to get the jQuery methods working in the code. We also constructed a constructor function based on a defined key/value pair, and learning the "forEach() method to refactor for loops.
