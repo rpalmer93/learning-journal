@@ -1,0 +1,2 @@
+Learning Journal 1/25/18
+This past week we learned about the Web request response cycle. The "client" which is the browser on the local machine is using the server.js file to communicate to a back-end database and make a request. The database then responds to the middleman server.js file, this response is passed through the server.js file and sent back to the "View" layer from MVC, which is the client.
